@@ -1,11 +1,16 @@
 # Stakeholder Analysis & Engagement Strategy
 
-This section includes stakeholder identification, influence-impact mapping, and structured engagement planning.
+This section documents stakeholder identification, influence-impact categorization, and structured engagement planning.
 
-Contents:
-- Stakeholder_Matrix.pdf
-- Engagement_Strategy.pdf
-- Communication_Plan.pdf
+## Key Stakeholder Groups
+- Doctors & Administrative Staff (Key Players)
+- IT Team (Keep Satisfied)
+- Patients (Keep Informed)
+- Nurses (Monitor)
 
-Approach:
-Stakeholders were categorized using an influence-impact framework to define governance cadence and communication structure.
+## Deliverables Included
+- Stakeholder Matrix
+- Engagement Strategy
+- Communication Plan
+
+The structured governance approach ensured alignment across clinical, administrative, and technical stakeholders during transformation implementation.
